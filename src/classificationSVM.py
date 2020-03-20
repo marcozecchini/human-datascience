@@ -1,1 +1,0 @@
-#mo scrivo trutto, scialla
