@@ -29,4 +29,14 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+button {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    color: #2c3e50;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    }
 </style>
